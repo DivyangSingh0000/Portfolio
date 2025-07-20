@@ -17,12 +17,15 @@ This website showcases who I am, my skills, projects, hobbies, and how to get in
 - JAVASCRIPT
 
 ## 📁 Folder Structure
-portfolio/
-├── assets
+```bash
+.
+
+├── assets/
 ├── index.html
 ├── mediaqueries.css
 ├── script.js
 └── style.cs
+```
 
 ## 📫 Contact Me
 If you'd like to collaborate or hire me, feel free to connect:
